@@ -34,4 +34,5 @@ gh:michelzam/lightcodepedia/docs/_410/databases/module_03/00_setup	2/2	1/1	2026-
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/_setup	1/1	0/0	2026-08-25T14:55:27.123Z	manideep0611/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/join	1/1	0/0	2026-08-01T19:22:58.067Z	manideep0611/lightcodepedia
 gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/00_welcome	2/2	0/0	2026-08-05T19:32:47.230Z	manideep0611/lightcodepedia
-crc 8edafd67
+gh:uwm-build-ai/uwm-build-ai-vault/courses/micro_build_ai/module_00/01_adoption_day	0/0	0/1	2026-09-30T18:22:10.000Z	manideep0611/lightcodepedia
+crc 9791168c
